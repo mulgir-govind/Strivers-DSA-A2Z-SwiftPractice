@@ -1,7 +1,7 @@
 import Foundation
 
 /**
-  Problem statement
+  Problem statement:
   Sam is making a forest visualizer. An N-dimensional forest is represented by 
   the pattern of size NxN filled with ‘*’.
 
