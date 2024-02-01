@@ -1,0 +1,7 @@
+# Following two lines are added to support multiple files linking.
+compile = "swiftc -o main $(find . -type f -name '*.swift')"
+run = ["./main"]
+
+entrypoint = "main.swift"
+modules = ["swift"]
+channel = "stable-23_05"
