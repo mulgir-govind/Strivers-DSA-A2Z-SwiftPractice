@@ -11,8 +11,7 @@ class Series01: SeriesProtocol {
 
     private func registerProblems() {
       let problems: [ProblemProtocol] = [
-        S01_P01_P01_VerticalStartPattern(),
-        S01_P01_P02_HorizontalStartPattern()
+        S01_P01_P01_RectangularStarPattern()
       ]
 
       for problem in problems {
