@@ -15,6 +15,9 @@ import Foundation
   * * *
   * * *
 
+  References: 
+  - https://takeuforward.org/pattern/pattern-1-rectangular-star-pattern/
+  - https://www.codingninjas.com/studio/problems/n-forest_6570177?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems
  */
 class S01_P01_P01_RectangularStarPattern: ProblemProtocol {
     let identifier = "S01_P01_P01"
